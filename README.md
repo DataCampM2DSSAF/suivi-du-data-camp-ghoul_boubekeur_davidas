@@ -8,11 +8,8 @@ suivi-du-data-camp-ghoul_boubekeur_davidas created by GitHub Classroom
  - Anthony Davidas Roch
  - Mbaimou Auxence NGREMMADJI
 
-# Semaine 1 :
-Nous avons exploré les données: 
+IEEE-CIS Fraud Detection : https://www.kaggle.com/c/ieee-fraud-detection/overview
 
-a) Compréhension des données: Il s'agit de savoir ce que chaque colonne répresente, s'il s'agit d'une variable numérique ou catégorielle.
+Le but de cette compétition est de prédire la probabilité qu'une transaction en ligne soit frauduleuse.
 
-b) Le traitement des valeurs manquantes dans les dataframe: Nous réflissons sur comment traitement les NaN de chaque variable.
 
-c) Concatener les deux dataframes ( transaction et identité ) afin d'avoir qu'un seul dataframe.
