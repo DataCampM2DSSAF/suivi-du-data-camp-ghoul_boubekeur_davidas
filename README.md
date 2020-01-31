@@ -12,6 +12,12 @@ suivi-du-data-camp-ghoul_boubekeur_davidas created by GitHub Classroom
 
 https://www.kaggle.com/c/ieee-fraud-detection/overview
 
+
 Le but de cette compétition est de prédire la probabilité qu'une transaction en ligne soit frauduleuse.
+
+## Fichiers
+
+ - Fichiers code en python
+ - Notebook de suivi 
 
 
