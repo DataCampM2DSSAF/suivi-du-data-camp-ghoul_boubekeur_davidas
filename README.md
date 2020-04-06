@@ -18,8 +18,7 @@ Le but de cette compétition est de prédire la probabilité qu'une transaction 
 
 ## Fichiers
 
- - Fichiers code en python
+ - Fichier code en python
  - Notebook de suivi 
- - Rapport 
 
 
